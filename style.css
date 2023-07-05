@@ -78,11 +78,11 @@ a:hover {
 
 
 html {
-    cursor: url("/data/cursor.png"), auto !important;
+    cursor: url("./data/cursor.png"), auto !important;
 
 }
 a {
-    cursor: url("/data/pointer.png"), auto !important;
+    cursor: url("./data/pointer.png"), auto !important;
 
 }
 
